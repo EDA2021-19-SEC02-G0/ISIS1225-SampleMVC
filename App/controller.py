@@ -23,7 +23,7 @@
 import config as cf
 import model
 import csv
-"""holaaaa"""
+
 
 """
 El controlador se encarga de mediar entre la vista y el modelo.
